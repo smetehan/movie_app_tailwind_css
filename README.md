@@ -1,4 +1,4 @@
-https://movie-app-tailwind-css.vercel.app/login
+https://movie-app-tailwind-css.vercel.app
 
 # Project-006 : Movie App (RP-06)
 
